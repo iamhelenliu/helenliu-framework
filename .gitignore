@@ -1,0 +1,26 @@
+## MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Gulp
+.sass-cache
+.npm-debug.log
+.babelrc
+.bowerrc
+app
+tmp
+node_modules
+npm-debug.log
+bower_components
+dist
+*.swp

@@ -1,0 +1,16 @@
+// ====================================================================
+// 
+//	TILE PANEL
+//	Section for blocks of tiles.
+//
+//	File name:	_tile-panel.scss
+//	Author:			Helen Liu
+//	Version 		1.0
+// 
+// ====================================================================
+
+.tile--panel {
+	padding: $space-m;
+	grid-template-columns: repeat(3, 1fr);
+	height: 100%;
+}
